@@ -1,1 +1,1 @@
-#fagougou-tableDetection
+tableDetection
