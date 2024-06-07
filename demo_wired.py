@@ -1,6 +1,4 @@
 # -*- encoding: utf-8 -*-
-# @Author: SWHL
-# @Contact: liekkaskono@163.com
 import os
 import tempfile
 from wired_table_rec import WiredTableRecognition

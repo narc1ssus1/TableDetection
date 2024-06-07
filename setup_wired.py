@@ -1,6 +1,4 @@
 # -*- encoding: utf-8 -*-
-# @Author: SWHL
-# @Contact: liekkaskono@163.com
 import sys
 from typing import List, Union
 from pathlib import Path
